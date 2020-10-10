@@ -14,11 +14,11 @@ Validity of HTML - Very good
 Evidence of collaboration including - Exemplary
   Each webpage has the author and links of people 
   
-Author info not written by author - Exemplary
+Author info not written by the author - Exemplary
   Each author info is not written by themselves
   
 Balanced contributions from members - Very good
   Mostly balanced contributions with Adam doing 8, Rory doing 5 and Ben doing 4
   
 Not completed at the last minute - Excellent
-  Updates were completed last minute but majority was done last week
+  Updates were completed last minute, but the majority was done last week
